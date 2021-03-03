@@ -1,0 +1,14 @@
+{
+  "name": "deshiloh/wordpress-template-boilerplate",
+  "description": "Boilerplate template for Wordpress using by Hybride Conseil",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alvarez-Iglisias Manuel",
+      "email": "m.alvarez.iglisias@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
