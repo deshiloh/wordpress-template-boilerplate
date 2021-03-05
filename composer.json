@@ -10,5 +10,10 @@
     }
   ],
   "require": {
+  },
+  "scripts": {
+    "post-create-project-cmd": [
+      "git init"
+    ]
   }
 }
