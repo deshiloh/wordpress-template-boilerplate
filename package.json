@@ -5,7 +5,10 @@
   "description": "Boilerplate template for Wordpress using by Hybride Conseil",
   "main": "index.js",
   "release": {
-    "branches": ["master", "main"]
+    "branches": [
+      "master",
+      "main"
+    ]
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
