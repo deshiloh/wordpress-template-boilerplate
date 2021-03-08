@@ -17,8 +17,13 @@ Install dependencies with :
 ## TODO before start coding
 
 - Change the project name in `style.css`.
-- Create a secret `TOKEN` in your repository settings under the **Secrets** section. The `TOKEN` is used for the semantic release of the project.
   
+### Github
+- Create a secret `TOKEN` in your repository settings under the **Secrets** section. The `TOKEN` is used for the semantic release of the project.
+
+### Gitlab
+- Create a secret `GL_TOKEN` in your repository settings variables. The `GL_TOKEN` is used for the semantic release of the project.
+
 ## Things to know
 
 - For performance reasons Tailwindcss is installed and configured with `postcss` without a preprocessing tool like Sass, 
