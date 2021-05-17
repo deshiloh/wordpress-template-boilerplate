@@ -70,6 +70,11 @@ function hybrideconseil_register_required_plugins() {
             'slug'      => 'password-protected',
             'required'  => true,
         ),
+        array(
+            'name' => 'Mail SMTP',
+            'slug' => 'wp-mail-smtp',
+            'required' => 'true',
+        )
 	);
 
 	/*
