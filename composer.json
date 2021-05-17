@@ -1,7 +1,8 @@
 {
   "name": "hybridelabs/wordpress-template-boilerplate",
   "description": "Boilerplate template for Wordpress using by Hybride Conseil",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "license": "MIT",
   "authors": [
     {
