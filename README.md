@@ -14,6 +14,18 @@ Install dependencies with :
 
 `npm install`
 
+This theme use Laravel Mix follow the [documentation](https://laravel-mix.com/docs/6.0/cli) to know how to use it.
+No build scripts required on package.json since the new version. Just make your configuration in the webpack.mix.js.
+
+basics commands: 
+```
+# command in dev
+npx mix watch
+
+# command for production
+npx mix --production
+```
+
 ## TODO before start coding
 
 - Change the project name in `style.css`.
