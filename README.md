@@ -29,6 +29,11 @@ npx mix --production
 ## TODO before start coding
 
 - Change the project name in `style.css`.
+- for security reasons update the `wp-config.php` file : 
+```
+define( 'DISALLOW_FILE_EDIT', true );
+define( 'DISALLOW_FILE_MODS', true );
+```
   
 ### Github
 - Create a secret `TOKEN` in your repository settings under the **Secrets** section. The `TOKEN` is used for the semantic release of the project.
