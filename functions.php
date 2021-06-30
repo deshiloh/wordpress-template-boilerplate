@@ -1,4 +1,5 @@
 <?php
+require 'vendor/autoload.php';
 require_once __DIR__.'/inc/plugins-activation/activations.php';
 
 function add_theme_scripts() {
